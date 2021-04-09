@@ -1,2 +1,7 @@
+.idea
+.bsp
+.DS_Store
+target
+project/target
 *.class
 *.log
